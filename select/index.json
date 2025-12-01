@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Hoist The Colours",
+  "base_artist": "The Wellermen、Ebucs、Eric Hollaway、Big Brev、Davide Dalmonte、Bobby Bass",
+  "createdAt": "2025-12-01T00:29:17.116284Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hoist up the Thing",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Hoist_up_the_Thing_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hoist The Colours",
+      "artist": "Hans Zimmer",
+      "has_synced": true,
+      "path": "select/02_Hoist_The_Colours_Hans_Zimmer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hoist That Rag",
+      "artist": "Tom Waits",
+      "has_synced": true,
+      "path": "select/03_Hoist_That_Rag_Tom_Waits.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Real Gone - 02 - Hoist That Rag",
+      "artist": "Tom Waits",
+      "has_synced": true,
+      "path": "select/04_Real_Gone_-_02_-_Hoist_That_Rag_Tom_Waits.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hoist the Colours",
+      "artist": "Hans Zimmer feat. Ted Elliot & Terry Rossio",
+      "has_synced": true,
+      "path": "select/05_Hoist_the_Colours_Hans_Zimmer_feat._Ted_Elliot_&_Terry_Rossio.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hoist the Colours",
+      "artist": "Hans Zimmer & Gore Verbinski",
+      "has_synced": true,
+      "path": "select/06_Hoist_the_Colours_Hans_Zimmer_&_Gore_Verbinski.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hoist the Colours (feat. Gore Verbinski)",
+      "artist": "Hans Zimmer",
+      "has_synced": true,
+      "path": "select/07_Hoist_the_Colours_(feat._Gore_Verbinski)_Hans_Zimmer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hoist the Colours Suite",
+      "artist": "Klaus Badelt",
+      "has_synced": false,
+      "path": "select/08_Hoist_the_Colours_Suite_Klaus_Badelt.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hoist the Colours (suite)",
+      "artist": "Klaus Badelt",
+      "has_synced": false,
+      "path": "select/09_Hoist_the_Colours_(suite)_Klaus_Badelt.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hoist The Colours",
+      "artist": "Hans Zimmer",
+      "has_synced": true,
+      "path": "select/10_Hoist_The_Colours_Hans_Zimmer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hoist the Colours",
+      "artist": "Hans Zimmer & Gore Verbinski",
+      "has_synced": true,
+      "path": "select/11_Hoist_the_Colours_Hans_Zimmer_&_Gore_Verbinski.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hoist the Colours",
+      "artist": "Colm R. McGuinness",
+      "has_synced": true,
+      "path": "select/12_Hoist_the_Colours_Colm_R._McGuinness.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hoist The Colours",
+      "artist": "Colm R. McGuinness",
+      "has_synced": true,
+      "path": "select/13_Hoist_The_Colours_Colm_R._McGuinness.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hoist the Colours",
+      "artist": "Hans Zimmer",
+      "has_synced": true,
+      "path": "select/14_Hoist_the_Colours_Hans_Zimmer.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hoist the Colours - Epic Version (Cover)",
+      "artist": "Samuel Kim",
+      "has_synced": true,
+      "path": "select/15_Hoist_the_Colours_-_Epic_Version_(Cover)_Samuel_Kim.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hoist the Colours - Epic Version (Cover)",
+      "artist": "Samuel Kim",
+      "has_synced": true,
+      "path": "select/16_Hoist_the_Colours_-_Epic_Version_(Cover)_Samuel_Kim.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hoist the Colours (feat. Colm R. McGuinness)",
+      "artist": "Samuel Kim",
+      "has_synced": true,
+      "path": "select/17_Hoist_the_Colours_(feat._Colm_R._McGuinness)_Samuel_Kim.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hoist The Colours (feat. Colm R. McGuinness) (Cover)",
+      "artist": "Samuel Kim",
+      "has_synced": true,
+      "path": "select/18_Hoist_The_Colours_(feat._Colm_R._McGuinness)_(Cover)_Samuel_Kim.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Hoist the Colours - From \"Pirates of the Caribbean: At World's End\"",
+      "artist": "Hans Zimmer feat. Ted Elliot & Terry Rossio",
+      "has_synced": true,
+      "path": "select/19_Hoist_the_Colours_-_From__Pirates_of_the_Caribbean__At_World's_End_Hans_Zimmer_feat._Ted_Elliot_&_Terry_Rossio.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "Hoist The Colours",
+      "artist": "The Wellermen、Ebucs、Eric Hollaway、Big Brev、Davide Dalmonte、Bobby Bass",
+      "has_synced": false,
+      "path": "select/pl_Hoist_The_Colours_The_Wellermen、Ebucs、Eric_Hollaway、Big_Brev、Davide_Dalmonte、Bobby_Bass.txt"
+    }
+  ]
+}
